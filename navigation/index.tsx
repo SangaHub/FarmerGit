@@ -71,7 +71,7 @@ function BottomTabNavigator() {
         name="Home"
         component={TabOneScreen}
         options={{
-          title: 'Home tab check',
+          title: 'Sanga',
           tabBarIcon: ({ color }) => <Ionicons name="home" color={color} size= {20}/>,
         }}
       />
